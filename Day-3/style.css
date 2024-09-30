@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+table{
+    width: 70%;
+    margin: 10px auto;
+}
+
+video{
+    padding: 20px;
+}
